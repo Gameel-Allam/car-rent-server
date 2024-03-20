@@ -1,0 +1,45 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+lib/
+vendor/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Debugging
+.vscode/
+.DS_Store
+
+# Build output
+build/
+dist/
+
+# IDE-specific files
+.idea/
+*.suo
+*.ntvs*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+lost+found/
+
+# Editor configuration
+*.swp
+*.swo
+*.swn
+
+# Tests
+coverage/
